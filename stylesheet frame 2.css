@@ -1,0 +1,87 @@
+body{
+  margin: 0;
+  font-family: "poppins";
+}
+
+header{
+  height: 100px;
+  width: 100%;
+  background-color: rgba(34, 49, 52, 0.9);;
+}
+
+.header-left{
+  float: left;
+}
+
+.logo {
+  float: left;
+  width: 500px;
+
+}
+
+.input{
+  float: left;
+  margin-left: 410px;
+  margin-top: 35px;
+}
+
+.input input {
+  width: 550px;
+  height: 30px;
+  border-radius: 10px;
+}
+
+.header-right{
+  float: right;
+  margin-top: 15px;
+  margin-right: 20px;
+}
+
+
+
+.header-right img{
+  clip-path: circle(36% at 45% 35%);
+}
+
+.clear{
+  clear: left;
+}
+
+
+.container{
+  height: 817px;
+  margin-top: -8px;
+  background-color: #191919;
+}
+
+.profile{
+  margin-left:400px;
+  margin-top: 150px;
+  float: left;}
+
+.profile img{
+  border-radius: 50%;
+  
+}
+
+
+.account{
+  margin-left: 100px;
+  float: left;
+  color: white;
+  margin-top: 150px;
+  margin-left: 50px;
+  padding-top: 40px;
+}
+
+.account input {
+width: 350px;
+height: 30px;
+border-radius: 10px;
+
+}
+
+footer{
+  background-color: #191919;
+  text-align: center;
+}
